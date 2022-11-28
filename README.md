@@ -14,7 +14,7 @@
 <p align="center">
   <a href="#description">Description</a> •
   <a href="#installing-and-executing">Installing And Executing</a> •
-  <a href="#authors">Authors</a> 
+  <a href="#author">Author</a> 
 </p>
 
 ## Description
