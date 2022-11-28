@@ -8,7 +8,7 @@
   <br>
 </h1>
 
-<h4 align="center">This gitHub repository is for the assignments given in Computer Systems course, Bar Ilan University.
+<h4 align="center">This gitHub repository is for the second assignments given in Computer Systems course, Bar Ilan University.
 
 
 <p align="center">
