@@ -49,8 +49,11 @@ $ git clone https://github.com/TalMizrahii/Ex2ComputerSystems
 # Go into the repository.
 $ cd Ex2ComputerSystems
 
-# Compile the program.
+# Compile the program option 1.
 $ gcc main.s
+
+# Compile the program option 2.
+$ gcc -no-pie main.s
 
 # Run the program (Linux).
 $ ./a.out
