@@ -1,10 +1,6 @@
-# Basic-Assembly - Computer Systems course
-
 
 <h1 align="center">
-  
-
-  Computer Systems
+  Computer Systems - Basic-Assembly
   <br>
 </h1>
 
