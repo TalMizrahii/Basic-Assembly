@@ -1,4 +1,4 @@
-# Ex2 - Computer Systems course
+# Basic-Assembly - Computer Systems course
 
 
 <h1 align="center">
@@ -8,7 +8,7 @@
   <br>
 </h1>
 
-<h4 align="center">This gitHub repository is for the second assignments given in Computer Systems course, Bar Ilan University.
+<h4 align="center">This gitHub repository is for the Basic-Assembly progarm, as part of the second assignments given in Computer Systems course, Bar Ilan University.
 
 
 <p align="center">
@@ -44,10 +44,10 @@ To clone and run this application, you'll need to use [Git](https://git-scm.com)
 
 ```bash
 # Clone this repository.
-$ git clone https://github.com/TalMizrahii/Ex2ComputerSystems
+$ git clone https://github.com/TalMizrahii/Basic-Assembly
 
 # Go into the repository.
-$ cd Ex2ComputerSystems
+$ cd Basic-Assembly
 
 # Compile the program option 1.
 $ gcc main.s
